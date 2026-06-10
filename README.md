@@ -158,3 +158,9 @@ MIT License — free for personal and commercial use.
 ---
 
 *Built with Python, Streamlit, Plotly, and ReportLab.*
+
+🚀 Live Demo
+
+The application is deployed on Render:
+
+https://meeting-intelligence-saas.onrender.com/
